@@ -3,7 +3,6 @@ Hey I'm Kijoon Jeong, undergrad @ Yonsei and I'm interested in..
 - Data Engineering
 - Low level optimization
 - Robotics
-- Learning languages :kr: :us: :es: :jp:
 
 ---
 
