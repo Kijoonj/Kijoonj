@@ -1,6 +1,7 @@
 Hey I'm Kijoon Jeong, undergrad @ Yonsei and I'm interested in..
 
 - Data Engineering
+- Distributed Systems
 - Low level optimization
 - Robotics
 
